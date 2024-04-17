@@ -6,21 +6,17 @@ This is a mobile application built using React Native that allows users to explo
 
 ## Screens
 
+#### Screenshots
+
+<img src="assets/images/Home.jpeg" alt="Home Screen" width="200" /> <img src="assets/images/Details.jpeg" alt="Details Screen" width="200" />
+
 ### Home Screen
 
 The Home screen displays a list of ART data. Users can search for specific ART items using the search bar at the top.
 
-#### Screenshots
-
-<img src="assets/images/Home.jpeg" alt="Home Screen" width="200" />
-
 ### Details Screen
 
 The Details screen shows detailed information about a specific ART item selected from the Home screen. It displays the item's image, description, and any present bids.
-
-#### Screenshots
-
-<img src="assets/images/Details.jpeg" alt="Details Screen" width="200" />
 
 ## Installation
 
