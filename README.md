@@ -8,7 +8,10 @@ This is a mobile application built using React Native that allows users to explo
 
 #### Screenshots
 
-<img src="assets/images/Home.jpeg" alt="Home Screen" width="200" /> &nbsp; &nbsp; &nbsp; <img src="assets/images/Details.jpeg" alt="Details Screen" width="200" />
+<div style="display: flex; justify-content: center;">
+    <img src="assets/images/Home.jpeg" alt="Home Screen" width="200" />
+    <img src="assets/images/Details.jpeg" alt="Details Screen" width="200" />
+</div>
 
 ### Home Screen
 
