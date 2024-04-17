@@ -13,8 +13,6 @@ The Home screen displays a list of ART data. Users can search for specific ART i
 #### Screenshots
 
 <img src="assets/images/Home.jpeg" alt="Home Screen" width="200" />
-<br />
-<img src="assets/images/Details.jpeg" alt="Details Screen" width="200" />
 
 ### Details Screen
 
@@ -53,4 +51,3 @@ The Details screen shows detailed information about a specific ART item selected
 ## Credits
 
 - This project utilizes open-source libraries for certain functionalities. Credits to the respective developers and contributors.
-
